@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         testCrash();
+        //这是一次很牛逼的提交
     }
 
     private void testCrash() {
